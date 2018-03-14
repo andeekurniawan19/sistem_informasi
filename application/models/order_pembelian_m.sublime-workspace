@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"no_spb"
+			],
+			[
+				"data_",
+				"data_order_detail_id"
+			],
+			[
+				"ur",
+				"uraian"
+			],
+			[
+				"id_",
+				"id_produk"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"pur",
+				"purchase_order_c"
+			],
+			[
+				"jum",
+				"jumlah"
+			],
+			[
+				"id",
+				"id_permintaan"
+			],
+			[
+				"tb",
+				"tb_permintaan_barang_detail"
+			],
+			[
+				"tb_per",
+				"tb_permintaan_barang"
+			],
+			[
+				"PO",
+				"POST"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"nama",
+				"nama_produk"
+			],
+			[
+				"tb_",
+				"tb_permintaan_barang"
+			],
+			[
+				"tb_order",
+				"tb_order_pembelian_detail"
+			],
+			[
+				"master",
+				"master_departemen"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tb_in",
+				"tb_invoice_detail"
+			],
+			[
+				"data",
+				"data_item"
+			],
+			[
+				"id_pr",
+				"id_produk"
+			],
+			[
+				"invo",
+				"invoice_baru"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"data_invoice",
+				"data_invoice_detail_id"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"da",
+				"dataType"
+			],
+			[
+				"kode",
+				"kode_akun"
+			],
+			[
+				"ko",
+				"kode_akun"
+			],
+			[
+				"kd",
+				"kode_akun"
+			],
+			[
+				"id_s",
+				"id_sales_baru"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/sistem_informasi/application/views/permintaan_barang_v.php",
+		"/C/xampp/htdocs/pep/application/views/barang_produksi_v.php",
+		"/C/xampp/htdocs/pep/application/views/new_barang_produksi_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/views/invoice_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/controllers/invoice_c.php",
+		"/C/xampp/htdocs/sistem_informasi/application/controllers/permintaan_barang_c.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/permintaan_barang_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/invoice_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/laporan_penerimaan_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/views/laporan_penerimaan_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/divisi_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/controllers/laporan_penerimaan_c.php",
+		"/C/xampp/htdocs/pep/application/controllers/order_pembelian_barang_c.php",
+		"/C/xampp/htdocs/pep/application/views/new_order_pembelian_barang_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/order_pembelian_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/sales_order_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/controllers/order_pembelian_c.php",
+		"/C/xampp/htdocs/sistem_informasi/application/views/order_pembelian_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/views/divisi_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/models/purchase_order_m.php",
+		"/C/xampp/htdocs/sistem_informasi/application/controllers/purchase_order_c.php",
+		"/C/xampp/htdocs/sistem_informasi/application/views/purchase_order_v.php",
+		"/C/xampp/htdocs/pep/application/models/order_pembelian_barang_m.php",
+		"/C/xampp/htdocs/pep/application/views/order_pembelian_barang_v.php",
+		"/C/xampp/htdocs/sistem_informasi/application/controllers/sales_order_c.php",
+		"/C/xampp/htdocs/sistem_informasi/application/views/sales_order_v.php",
+		"/D/xampp/htdocs/sistem_informasi/application/views/purchase_order_v.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "order_pembelian_m.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"order_pembelian",
+				"sistem_informasi\\application\\views\\order_pembelian_v.php"
+			],
+			[
+				"purchase",
+				"sistem_informasi\\application\\views\\purchase_order_v.php"
+			],
+			[
+				"transaksi_pembelian",
+				"pep\\application\\controllers\\transaksi_pembelian_c.php"
+			],
+			[
+				"permintaan",
+				"pep\\application\\controllers\\permintaan_barang_c.php"
+			],
+			[
+				"new_permin",
+				"pep\\application\\views\\new_permintaan_barang_v.php"
+			],
+			[
+				"perminta",
+				"sistem_informasi\\application\\views\\permintaan_barang_v.php"
+			],
+			[
+				"new_barang",
+				"pep\\application\\views\\new_barang_produksi_v.php"
+			],
+			[
+				"barang_prod",
+				"pep\\application\\views\\barang_produksi_v.php"
+			],
+			[
+				"order_pembelia",
+				"sistem_informasi\\application\\controllers\\order_pembelian_c.php"
+			],
+			[
+				"new_order",
+				"pep\\application\\views\\new_order_pembelian_barang_v.php"
+			],
+			[
+				"order",
+				"pep\\application\\controllers\\order_pembelian_barang_c.php"
+			],
+			[
+				"order_pembeli",
+				"sistem_informasi\\application\\controllers\\order_pembelian_c.php"
+			],
+			[
+				"laporan_",
+				"sistem_informasi\\application\\models\\laporan_penerimaan_m.php"
+			],
+			[
+				"laporan",
+				"sistem_informasi\\application\\controllers\\laporan_penerimaan_c.php"
+			],
+			[
+				"laporan_penerimaan",
+				"sistem_informasi\\application\\views\\laporan_penerimaan_v.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 533.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
